@@ -1,5 +1,4 @@
-# UMT Office of Participant Success
- (OPS)
+# UMT Office of Participant Success (OPS)
 
 This folder contains certificates earned through workshops, seminars, career development sessions, and professional training programs organized by the **Office of Participant Success
  (OPS)** at the University of Management and Technology (UMT).
