@@ -1,17 +1,5 @@
 # Professional Certificates Portfolio
 
-<p align="center">
-
-![GitHub Repo stars](https://img.shields.io/github/stars/mahnoor-yasir/certificates-portfolio?style=for-the-badge)
-![GitHub forks](https://img.shields.io/github/forks/mahnoor-yasir/certificates-portfolio?style=for-the-badge)
-![GitHub last commit](https://img.shields.io/github/last-commit/mahnoor-yasir/certificates-portfolio?style=for-the-badge)
-![Repository Size](https://img.shields.io/github/repo-size/mahnoor-yasir/certificates-portfolio?style=for-the-badge)
-![License](https://img.shields.io/badge/License-MIT-blue?style=for-the-badge)
-
-</p>
-
----
-
 ## Overview
 
 This repository serves as a centralized collection of my professional certificates, internships, workshops, technical training programs, competitions, volunteer experience, and industry-recognized learning achievements.
