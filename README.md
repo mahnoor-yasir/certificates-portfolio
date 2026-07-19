@@ -8,26 +8,6 @@ The repository reflects my continuous learning journey in Software Engineering, 
 
 ---
 
-## Repository Structure
-
-```text
-certificates-portfolio/
-│
-├── Internships/
-├── Artificial Intelligence/
-├── Web Development/
-├── Programming/
-├── Data Science/
-├── Networking/
-├── Cloud Computing/
-├── Workshops/
-├── Competitions/
-├── Volunteering/
-└── Others/
-```
-
----
-
 ## Certificate Categories
 
 ### Internships
