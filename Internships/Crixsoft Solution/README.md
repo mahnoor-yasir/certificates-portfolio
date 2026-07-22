@@ -11,12 +11,6 @@ This folder contains the documents related to my **Java Programming Internship**
 - **Duration:** 1 Month
 - **Start Date:** 25 July 2026
 
-## Documents Included
-
-- 📄 Crixsoft Solution Java Programming Internship Offer Letter.pdf
-
-> **Note:** The internship completion certificate and letter of recommendation (if issued) will be added after successfully completing the internship.
-
 ## Skills & Learning Outcomes
 
 During this internship, I aim to:
