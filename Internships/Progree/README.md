@@ -3,7 +3,6 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Internship-Frontend%20Development-4F46E5?style=for-the-badge" alt="Internship">
   <img src="https://img.shields.io/badge/Type-Remote-2563EB?style=for-the-badge" alt="Remote Internship">
-  <img src="https://img.shields.io/badge/Duration-5%20Aug%20-%205%20Sep%202026-7C3AED?style=for-the-badge" alt="Duration">
   <img src="https://img.shields.io/badge/Status-Selected-16A34A?style=for-the-badge" alt="Selected">
 </p>
 
