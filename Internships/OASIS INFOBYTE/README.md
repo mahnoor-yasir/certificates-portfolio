@@ -66,7 +66,7 @@ This repository contains my official internship documents from **Oasis Infobyte*
 
 For any queries or opportunities, feel free to reach out:
 
-- **Email:** mahnooryasir@email.com
+- **Email:** mahnooryasir04@gmail.com
 - **LinkedIn:** [Mahnoor Yasir](https://www.linkedin.com/in/mahnoor-yasir/)
 
 ---
