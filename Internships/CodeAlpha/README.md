@@ -108,7 +108,7 @@ CodeAlpha/
 | Program | Status | Credentials |
 |---------|--------|-------------|
 | 🟦 C++ Programming | ✅ Completed | Certificate + LOR |
-| 🟩 Frontend Development | ✅ Completed | Certificate |
+| 🟩 Frontend Development | ✅ Completed | Certificate + LOR |
 
 </div>
 
