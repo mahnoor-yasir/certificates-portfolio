@@ -75,19 +75,6 @@ This repository contains all the official documents and credentials awarded to m
 
 ---
 
-## 📁 Folder Structure
-
-```
-CodeAlpha/
-│
-├── C++ Programming Internship Certificate.pdf
-├── C++ Letter_of_Recommendation.pdf
-├── CodeAlpha Frontend Development Internship Certificate.pdf
-├── CodeAlpha Frontend Developer Internship Certificate.pdf
-└── README.md
-```
-
----
 
 ## 🔗 Connect with Me
 
