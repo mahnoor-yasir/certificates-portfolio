@@ -40,7 +40,7 @@ This repository contains all the official documents and credentials awarded to m
 | # | Document | Description |
 |---|----------|-------------|
 | 1 | 📄 **Certificate** | `CodeAlpha Frontend Development Internship Certificate.pdf` |
-| 2 | 📄 **Certificate** | `CodeAlpha Frontend Developer Internship Certificate.pdf` |
+| 2 | 📝 **Letter of Recommendation** | `CodeAlpha Frontend Development Letter of Recommendation.pdf` |
 
 ---
 
