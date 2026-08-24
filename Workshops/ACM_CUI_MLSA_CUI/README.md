@@ -81,7 +81,7 @@ ACM_CUI_MLSA/
 
 ### ACM CUI Lahore
 
-The **ACM student community at COMSATS University Islamabad, Lahore Campus** provides students with opportunities to participate in technical sessions, workshops, competitions, and professional development activities.
+The **ACM student community, Lahore Campus** provides students with opportunities to participate in technical sessions, workshops, competitions, and professional development activities.
 
 ### MLSA CUI Lahore
 
