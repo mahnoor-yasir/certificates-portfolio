@@ -1,4 +1,4 @@
-# GeeksforGeeks — Online Courses & Certificates
+# GeeksforGeeks Online Courses & Certificates
 
 This folder contains certificates earned through **GeeksforGeeks** courses and learning programs.
 
