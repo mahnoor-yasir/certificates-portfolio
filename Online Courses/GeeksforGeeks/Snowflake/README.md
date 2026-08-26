@@ -1,41 +1,41 @@
-# Introduction to Generative AI with Snowflake
+# Snowflake — Courses & Certificates
 
-## Certificate of Completion
+This folder contains my **Snowflake-related courses, certifications, and learning achievements** completed through GeeksforGeeks and other relevant learning programs.
 
-This folder contains my certificate for successfully completing **Introduction to Generative AI with Snowflake**, a certification completed through **GeeksforGeeks in collaboration with Snowflake**.
+The collection focuses on building knowledge and practical skills in **Snowflake, Snowflake Cortex, Generative AI, data engineering, and cloud-based data technologies**.
 
-The certificate is issued to **Mahnoor Yasir**.
+## Certificates & Learning
 
-## Course Overview
+Certificates and course completions are organized in this folder based on the Snowflake technology or learning program covered.
 
-The course introduced Generative AI concepts and the use of **Snowflake Cortex AI** for building and working with AI applications.
+Each certificate is stored as a separate file to keep the collection organized and easy to maintain.
 
-### Topics Covered
+## Topics & Skills
 
-* Generative AI fundamentals
-* Snowflake Cortex AI
-* Cortex LLM functions
+The certificates and courses in this collection may cover:
+
+* Snowflake
+* Snowflake Cortex
+* Generative AI
 * Large Language Models (LLMs)
-* Model selection
-* Prompt engineering
-* Fine-tuning
+* AI Applications
+* Fine-Tuning
 * Parameter-Efficient Fine-Tuning (PEFT)
-* LLM function optimization
-* AI application development
-
-## Certificate
-
-**Course:** Introduction to Generative AI with Snowflake
-**Platform:** GeeksforGeeks
-**Technology:** Snowflake
-**Certificate Type:** Certificate of Completion
-**Learner:** Mahnoor Yasir
+* Prompt Engineering
+* Data Engineering
+* Cloud Data Platforms
+* Data Processing
+* Machine Learning
+* Artificial Intelligence
 
 
-## Skills & Technologies
+## Purpose
 
-`Generative AI` `Snowflake Cortex` `LLMs` `Prompt Engineering` `Fine-Tuning` `PEFT` `AI Applications`
+This collection serves as a record of my continuous learning and development in **Snowflake and related technologies**.
+
+As I complete additional Snowflake courses, certifications, and learning programs, they will be added to this folder while keeping the collection organized and easy to navigate.
 
 ---
 
-**Completed as part of my continuous learning in Artificial Intelligence and Generative AI.**
+**Learner:** Mahnoor Yasir
+**Learning Focus:** Snowflake, Data Technologies, Generative AI & Artificial Intelligence
