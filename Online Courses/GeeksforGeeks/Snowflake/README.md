@@ -1,4 +1,4 @@
-# Snowflake — Courses & Certificates
+# Snowflake Courses & Certificates
 
 This folder contains my **Snowflake-related courses, certifications, and learning achievements** completed through GeeksforGeeks and other relevant learning programs.
 
