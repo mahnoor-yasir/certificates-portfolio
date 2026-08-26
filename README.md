@@ -1,4 +1,4 @@
-# Professional Certificates Portfolio
+# Certificates Portfolio
 
 ## Overview
 
