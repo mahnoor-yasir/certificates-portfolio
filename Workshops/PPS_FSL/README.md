@@ -27,7 +27,7 @@ The certificate also recognizes a commitment to **mental clarity, focus, and pea
 
 ### 📄 Certificate
 
-[View Certificate](./Advance_Research_Methodology_and_Tools_Certificate.pdf)
+[View Certificate](./Advance_Research_Methodology_and_Tools_Certificate.png)
 
 ---
 
