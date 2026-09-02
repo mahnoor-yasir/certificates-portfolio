@@ -25,15 +25,4 @@ Participated in the 90-minute online webinar on **“Advance Research Methodolog
 
 The certificate also recognizes a commitment to **mental clarity, focus, and peak personal productivity**.
 
-### 📄 Certificate
-
-[View Certificate](./Advance_Research_Methodology_and_Tools_Certificate.png)
-
 ---
-
-## 🗂️ Folder Structure
-
-```text
-PPS_FSL/
-├── Advance_Research_Methodology_and_Tools_Certificate.pdf
-└── README.md
