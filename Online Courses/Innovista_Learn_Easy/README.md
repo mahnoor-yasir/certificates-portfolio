@@ -32,7 +32,7 @@ These courses contributed to learning and development in:
 
 ## About the Certificates
 
-Both certificates were awarded to **Mahnoor Yasir** by **Innovista Learn Easy** on September 8, 2026. :contentReference[oaicite:0]{index=0} :contentReference[oaicite:1]{index=1}
+Both certificates were awarded to **Mahnoor Yasir** by **Innovista Learn Easy** on September 8, 2026. 
 
 ---
 
