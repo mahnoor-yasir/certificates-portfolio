@@ -3,7 +3,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Internship-Frontend%20Development-4F46E5?style=for-the-badge" alt="Internship">
   <img src="https://img.shields.io/badge/Type-Remote-2563EB?style=for-the-badge" alt="Remote Internship">
-  <img src="https://img.shields.io/badge/Status-Selected-16A34A?style=for-the-badge" alt="Completed">
+  <img src="https://img.shields.io/badge/Status-Completed-16A34A?style=for-the-badge" alt="Completed">
 </p>
 
 <p align="center">
