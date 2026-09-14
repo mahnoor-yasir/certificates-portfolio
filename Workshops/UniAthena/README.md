@@ -1,39 +1,23 @@
 # UniAthena — Workshops & Webinars
 
-> A collection of certificates earned through workshops, webinars, and learning sessions organized by UniAthena.
+A collection of certificates earned through workshops, webinars, seminars, and other learning sessions organized by **UniAthena**.
+
+## About
+
+This folder contains certificates documenting participation in UniAthena's educational and professional development activities.
+
+## Certificates
+
+The certificates in this folder represent participation in learning sessions covering different academic, professional, and skill-development topics.
+
+Each certificate provides details such as the participant, event or webinar title, organizer, and date where applicable.
+
+## Organization
+
+**UniAthena**
+
+Website: https://www.uniathena.com/
 
 ---
 
-## 📚 Certificates
-
-| Certificate | Event | Type |
-|:---|:---|:---|
-| 📜 Sustainable Procurement | Sustainable Procurement: The New Skills Behind Better Sourcing | Webinar Participation |
-
----
-
-## 📌 Sustainable Procurement: The New Skills Behind Better Sourcing
-
-**Organizer:** UniAthena  
-**Type:** Webinar  
-**Date:** 01 September 2026  
-**Participant:** Mahnoor Yasir
-
-### About the Webinar
-
-Participated in the webinar **“Sustainable Procurement: The New Skills Behind Better Sourcing”**, organized by UniAthena.
-
-The session provided an opportunity to explore sustainable procurement and the skills involved in better sourcing.
-
-### 📄 Certificate
-
-[View Certificate](./Sustainable_Procurement_The_New_Skills_Behind_Better_Sourcing.pdf)
-
----
-
-## 🗂️ Folder Structure
-
-```text
-UniAthena/
-├── Sustainable_Procurement_The_New_Skills_Behind_Better_Sourcing.pdf
-└── README.md
+This folder is continuously updated as new UniAthena workshops, webinars, and learning sessions are completed.
